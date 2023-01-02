@@ -52,3 +52,12 @@
 |OOPS|LINK|LINK|LINK|LINK|LINK|
 |Indian Traditions, Culture and Society|LINK|LINK|LINK|LINK|LINK|
 
+# SEM 7
+
+|Subject|Unit 1|Unit 2|Unit 3|Unit 4|Unit 5|
+|-------|------|------|------|------|------|
+|Rural Development|LINK|LINK|LINK|LINK|LINK|
+|Renewable Energy Resources|LINK|LINK|LINK|LINK|LINK|
+|Distributed Systems|LINK|LINK|LINK|LINK|LINK|
+|Deep Learning|LINK|LINK|LINK|LINK|LINK|
+
