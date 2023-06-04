@@ -61,3 +61,10 @@
 |Distributed Systems|LINK|LINK|LINK|LINK|LINK|
 |Deep Learning|LINK|LINK|LINK|LINK|LINK|
 
+## SEM 8
+
+|Subject|Unit 1|Unit 2|Unit 3|Unit 4|Unit 5|
+|-------|------|------|------|------|------|
+|Project Management & Enterpreneurship|LINK|LINK|LINK|LINK|LINK|
+|Data Warehousing & Data Mining|LINK|LINK|LINK|LINK|LINK|
+|Cloud Computing|LINK|LINK|LINK|LINK|LINK|
