@@ -1,6 +1,18 @@
 <p width = "200" align = "center">
-  <img src = "https://user-images.githubusercontent.com/94545831/171982662-5d564753-cc86-495c-9b5e-160461f4bc5c.png"/>
+  <img height="300" src = "https://user-images.githubusercontent.com/94545831/171982662-5d564753-cc86-495c-9b5e-160461f4bc5c.png"/>
   </p>
+  
+<br>
+
+<details><summary><h2> How to access the notes? </h2></summary>
+  
+ 1. Click on Code button and copy the link `https://github.com/utkarsh006/Aktu-Semester-Notes.git`
+ 2. Make a new folder on your desktop.
+ 3. Go inside that folder and right click.
+ 4. Click `open in terminal` or `git bash here`
+ 5. Write the following command : `git clone https://github.com/utkarsh006/Aktu-Semester-Notes.git` in terminal.
+ 6. The repo has been forked into your local system and you can now read the pdf's of these notes 😍
+</details>
 
 ✔ *NOTE* : Guidance and Resources available for the First Year Students are quite high in number. <br>
          So, you will find the notes from Second year.
